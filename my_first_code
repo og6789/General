@@ -1,0 +1,5 @@
+
+mystringexample1="Hello world"
+print(mystringexample1)
+include("my_first_code")
+include("my_first_code.jl")
